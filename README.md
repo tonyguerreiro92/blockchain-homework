@@ -192,7 +192,7 @@ echo 'node 2 password' >> accounts.txt
 12. Exit the puppeth prompt by using the Ctrl+C keys combination.
 ​
 
-![custom-node](screenshots/puppeth.jpg)
+![custom-node](screenshots/puppeth.png)
 
 
 ​
@@ -244,13 +244,13 @@ Click on the "Save & Use Custom Node" button, to use the network; double-check t
 ​
 
 
-![custom-node](screenshots/custom-node.jpg)
+![custom-node](screenshots/custom-node.png)
 
 
 
 5. Import the keystore file from th e `node1/keystore` directory into MyCrypto. This will import the private key.
 
-![import-keyfile](screenshots/wallet.jpg)
+![import-keyfile](screenshots/wallet.png)
 
 6. Send a transaction from the `node1` account to the `node2` account.
 
@@ -260,7 +260,7 @@ Click on the "Save & Use Custom Node" button, to use the network; double-check t
 
 9. Celebrate, I just created a blockchain and sent a transaction!
 
-![transaction-success](screenshots/transaction.jpg)
+![transaction-success](screenshots/transaction.png)
 
 ### Remember, *never* share my mainnet private keys! This is a testnet, so coins have no value here!
 
